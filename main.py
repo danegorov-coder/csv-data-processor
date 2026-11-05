@@ -3,6 +3,6 @@ def clean_csv():
 
 def main():
 	print('CSV Data Processor started!')
-	print("Ready to process CSV files.")
+	print("CSV files are ready for processing.")
 if __name__ == '__name__':
 	main()
